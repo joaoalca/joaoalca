@@ -7,7 +7,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python and Javascript(backend development).
+- 🔭 &nbsp; I’m currently learning Python(Machine learning).
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Software Engineering at <a href="https://github.com/Intelihub" target="_blank">Inteli</a>.
 - 💼 &nbsp; Developed a mobile game for Banco BTG and Web Application for Projeto Revirar.
