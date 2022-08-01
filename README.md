@@ -15,7 +15,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | MySQL | HTML | CSS | JavaScript | Bootstrap | GDScript  
-- 🌐 &nbsp;  Visual Studio Code | GitHub | Postman | Godot
+- 🌐 &nbsp;  Visual Studio Code | GitHub | Postman | Godot | Google Colab
 
 <br>
 
