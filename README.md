@@ -7,15 +7,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python(Machine learning).
+- 🔭 &nbsp; I’m currently learning Java.
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Software Engineering at <a href="https://github.com/Intelihub" target="_blank">Inteli</a>.
-- 💼 &nbsp; Developed a mobile game for Banco BTG and Web Application for Projeto Revirar.
+- 🎓 &nbsp; Studying Computer Science at <a href="https://github.com/Intelihub" target="_blank">Inteli</a>.
+- 💼 &nbsp; Developed a mobile game for Banco BTG, Web Application for Projeto Revirar, Predictive model for Everymind and IoT solution for Beacon School.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | MySQL | HTML | CSS | JavaScript | Bootstrap | GDScript  
-- 🌐 &nbsp;  Visual Studio Code | GitHub | Postman | Godot | Google Colab
+- 💻 &nbsp; Python | MySQL | HTML | CSS | JavaScript | Bootstrap | GDScript | Java 
+- 🌐 &nbsp;  Visual Studio Code | GitHub | Postman | Godot | Google Colab | MongoDB
 
 <br>
 
